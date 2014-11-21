@@ -1,0 +1,9 @@
+@import url('../../../texascasa-bones/library/css/style.css');
+
+#logo {
+	max-width: 332px;
+}
+
+.has-ancillary.sitetitle {
+	bottom:1em;
+}
